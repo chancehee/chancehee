@@ -3,7 +3,7 @@
 
 [![chancehee's GitHub stats](https://github-readme-stats.vercel.app/api?username=chancehee)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rkshktmshk">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rkshktmshk">
 
 
 <!--
