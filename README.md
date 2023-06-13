@@ -22,7 +22,7 @@ Projects
 - 궁금한게 궁금해 : 유튜브 댓글 수집 & 분석 프로젝트 
 - YES 숙 : 노숙자 복지 정보 제공 앱  
 
-[![chancehee's GitHub stats](https://github-readme-stats.vercel.app/api?username=chancehee)](https://github.com/anuraghazra/github-readme-stats)
+Algorithm  
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rkshktmshk">
 
