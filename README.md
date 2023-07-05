@@ -13,15 +13,6 @@ Tools
 <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat&logo=Gitlab&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Mattermost-0058CC?style=flat&logo=Mattermost&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 
 
-Projects
-- ALGOPAT : 알고리즘 소스코드 효율성 분석 서비스
-- MUSICAT : 24시간 연중무휴 AI Radio 서비스 
-- SCCS : 실전 코딩테스트 체험 & 스터디 플랫폼
-- MyHouse : 주택 매물 조회 서비스 
-- 착한 선결제 : 전자 선결제 앱 
-- 궁금한게 궁금해 : 유튜브 댓글 수집 & 분석 프로젝트 
-- YES 숙 : 노숙자 복지 정보 제공 앱  
-
 Algorithm  
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rkshktmshk">
