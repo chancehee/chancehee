@@ -9,10 +9,3 @@ Frameworks
 Tools  
 
 <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat&logo=Gitlab&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Mattermost-0058CC?style=flat&logo=Mattermost&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
-
-
-Algorithm  
-
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rkshktmshk">
-
-
