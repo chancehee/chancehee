@@ -33,11 +33,11 @@
           <td height="140px" align="center"> <a href="">
               <img src="image/메인페이지.png" height="140px" width="140px" /> <br><br> SCCS </a> <br></td>
           <td height="140px" align="center"> <a href="">
-              <img src="image/메인페이지.png" height="140px" width="140px" /> <br><br> Musicat </a> <br></td>
+              <img src="image/Musicat.png" height="140px" width="140px" /> <br><br> Musicat </a> <br></td>
           <td height="140px" align="center"> <a href="">
-              <img src="image/메인페이지.png" height="140px" width="140px" /> <br><br> Algopat </a> <br></td>
+              <img src="image/Algopat.png" height="140px" width="140px" /> <br><br> Algopat </a> <br></td>
           <td height="140px" align="center"> <a href="">
-              <img src="image/메인페이지.png" height="140px" width="140px" /> <br><br> The Gallery </a> <br></td>
+              <img src="image/TheGallery.png" height="140px" width="140px" /> <br><br> The Gallery </a> <br></td>
       </tr>
       <tr>
           <td align="center">코딩테스트 스터디 플랫폼<br/></td>
