@@ -30,13 +30,13 @@
   
   <table>
       <tr>
-          <td height="140px" align="center"> <a href="https://github.com/chancehee/SCCS">
+          <td height="140px" align="center"> <a href="https://github.com/chancehee/SCCS" target="_blank">
               <img src="image/S1.png" height="140px" width="140px" /> <br><br> SCCS </a> <br></td>
-          <td height="140px" align="center"> <a href="https://github.com/chancehee/MUSICAT">
+          <td height="140px" align="center"> <a href="https://github.com/chancehee/MUSICAT" target="_blank">
               <img src="image/M1.png" height="140px" width="140px" /> <br><br> Musicat </a> <br></td>
-          <td height="140px" align="center"> <a href="https://github.com/chancehee/ALGOPAT">
+          <td height="140px" align="center"> <a href="https://github.com/chancehee/ALGOPAT" target="_blank">
               <img src="image/A3.png" height="140px" width="140px" /> <br><br> Algopat </a> <br></td>
-          <td height="140px" align="center"> <a href="https://github.com/nekarak8s/gallery">
+          <td height="140px" align="center"> <a href="https://github.com/nekarak8s/gallery" target="_blank">
               <img src="image/TheGallery.png" height="140px" width="140px" /> <br><br> The Gallery </a> <br></td>
       </tr>
       <tr>
