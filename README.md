@@ -39,12 +39,12 @@
           <td height="140px" align="center"> <a href="https://github.com/nekarak8s/gallery" target="_blank">
               <img src="image/TheGallery.png" height="140px" width="140px" /> <br><br> The Gallery </a> <br></td>
       </tr>
-      <tr>
+<!--       <tr>
           <td align="center">코딩테스트 스터디 플랫폼<br/></td>
           <td align="center">인공지능 라디오<br/></td>
           <td align="center">알고리즘 피드백 서비스<br/></td>
           <td align="center">3D 전시회<br/></td>
-      </tr>
+      </tr> -->
   </table>
 </div>
 
