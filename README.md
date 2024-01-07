@@ -30,14 +30,14 @@
   
   <table>
       <tr>
-          <td height="100px" align="center"> <a href="https://github.com/chancehee/SCCS" target="_blank">
-              <img src="image/S1.png" height="100px" width="100px" /> <br><br> SCCS </a> <br></td>
-          <td height="100px" align="center"> <a href="https://github.com/chancehee/MUSICAT" target="_blank">
-              <img src="image/M1.png" height="100px" width="100px" /> <br><br> Musicat </a> <br></td>
-          <td height="100px" align="center"> <a href="https://github.com/chancehee/ALGOPAT" target="_blank">
-              <img src="image/A3.png" height="100px" width="100px" /> <br><br> Algopat </a> <br></td>
-          <td height="100px" align="center"> <a href="https://github.com/nekarak8s/gallery" target="_blank">
-              <img src="image/TheGallery.png" height="100px" width="100px" /> <br><br> The Gallery </a> <br></td>
+          <td height="80px" align="center"> <a href="https://github.com/chancehee/SCCS" target="_blank">
+              <img src="image/S1.png" height="80px" width="80px" /> <br><br> SCCS </a> <br></td>
+          <td height="80px" align="center"> <a href="https://github.com/chancehee/MUSICAT" target="_blank">
+              <img src="image/M1.png" height="80px" width="80px" /> <br><br> Musicat </a> <br></td>
+          <td height="80px" align="center"> <a href="https://github.com/chancehee/ALGOPAT" target="_blank">
+              <img src="image/A3.png" height="80px" width="80px" /> <br><br> Algopat </a> <br></td>
+          <td height="80px" align="center"> <a href="https://github.com/nekarak8s/gallery" target="_blank">
+              <img src="image/TheGallery.png" height="80px" width="80px" /> <br><br> The Gallery </a> <br></td>
       </tr>
 <!--       <tr>
           <td align="center">코딩테스트 스터디 플랫폼<br/></td>
