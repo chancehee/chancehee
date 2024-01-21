@@ -7,11 +7,12 @@
   ### 🛠️ Skill 🛠️
   <div>
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+    
   </div>
   <div>
-    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
+    <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> -->
+    <!-- <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/> -->
   </div>
   <div>
     <img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"/>
@@ -19,13 +20,17 @@
     <img src="https://img.shields.io/badge/kafka-231F20?style=flat-square&logo=Apache-Kafka&logoColor=white"/>
   </div>
   <div>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
+  </div>
     
 </div>
 
 </br>
 
 <div align="center">
-  
+
+<!--
   ###  💻 Project 💻
   
   <table>
@@ -39,14 +44,14 @@
           <td height="80px" align="center"> <a href="https://github.com/nekarak8s/gallery" target="_blank">
               <img src="image/TheGallery.png" height="80px" width="80px" /> <br><br> The Gallery </a> <br></td>
       </tr>
-<!--       <tr>
+       <tr>
           <td align="center">코딩테스트 스터디 플랫폼<br/></td>
           <td align="center">인공지능 라디오<br/></td>
           <td align="center">알고리즘 피드백 서비스<br/></td>
           <td align="center">3D 전시회<br/></td>
-      </tr> -->
+      </tr> 
   </table>
 </div>
-
+-->
 
 
