@@ -4,8 +4,8 @@
 
   <!-- ![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=0080FF&text=Lee%20Chan%20Hee&fontAlignY=45&fontSize=40&height=150&desc=Back-end%20Engineer&descAlignY=70&fontColor=FFFFFF) -->
 
-  ### Project In Operation 👉🏻 [The Gallery](https://thegallery.site)
-  ### Blog In Operation 👉🏻 [Blog](https://velog.io/@chancehee/posts)
+  <!-- ### Project In Operation 👉🏻 [The Gallery](https://thegallery.site) -->
+  <!-- ### Blog In Operation 👉🏻 [Blog](https://velog.io/@chancehee/posts) -->
 
   
   <!-- ### 🛠️ Skill 🛠️ -->
